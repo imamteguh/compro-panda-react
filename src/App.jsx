@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import About from './components/About'
 
 const App = () => {
 
@@ -10,7 +11,7 @@ const App = () => {
     AOS.init({
       duration: 1000,
       easing: 'ease-in-out',
-      once: false,
+      once: true,
       offset: 100
     });
   }, []);
@@ -19,6 +20,7 @@ const App = () => {
     <div>
       <Navbar />
       <Hero />
+      <About />
     </div>
   )
 }
