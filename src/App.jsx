@@ -5,6 +5,7 @@ import AOS from 'aos'
 import 'aos/dist/aos.css'
 import About from './components/About'
 import OurCompany from './components/OurCompany'
+import Services from './components/Services'
 
 const App = () => {
 
@@ -23,6 +24,7 @@ const App = () => {
       <Hero />
       <About />
       <OurCompany />
+      <Services />
     </div>
   )
 }

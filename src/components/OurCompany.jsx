@@ -3,7 +3,7 @@ import { Circle, Shield, Star, Zap } from "lucide-react"
 const OurCompany = () => {
   return (
     <section id='company' className='relative scroll-m-6 overflow-hidden bg-linear-to-br from-blue-50 to-purple-50
-      py-12 px-4 sm:py-16 md:py-20 md:px-12 lg:px-20'>
+      py-12 px-4 sm:py-16 md:px-12 lg:px-20'>
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-6 md:mb-8" data-aos="fade-down">
           <h2 className="text-3xl sm:text-4xl md:text-5xl text-gray-900">
