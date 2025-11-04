@@ -18,9 +18,9 @@ const OurCompany = () => {
             <Circle className="text-green-500 w-5 h-5" />
           </div>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 md:gap-12 items-center">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 md:gap-12 items-center mb-10">
           <div className="relative w-full flex justify-center order-2 lg:order-1">
-            <div className="bg-white w-full max-w-md lg:max-w-lg xl:max-w-xl h-[460px] md:h-[500px] lg:h-[520px]
+            <div className="w-full max-w-md lg:max-w-lg xl:max-w-xl h-[460px] md:h-[480px] lg:h-[500px]
               overflow-hidden shadow-lg md:shadow-xl absolute top-0 z-0
               rounded-[30%_10%_20%_70%/60%_30%_70%_30%]"
               data-aos="fade-right" data-aos-delay="100">
