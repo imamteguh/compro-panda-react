@@ -9,7 +9,7 @@ const OurCompany = () => {
           <h2 className="text-3xl sm:text-4xl md:text-5xl text-gray-900">
             Why Our{" "}
             <span className="font-bold text-black">
-              Company <span className="text-green-500">?</span>
+              Company<span className="text-green-500">?</span>
             </span>
           </h2>
           <div className="flex gap-3 mt-4 justify-center">

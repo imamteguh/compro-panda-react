@@ -65,12 +65,12 @@ const Services = () => {
       py-12 px-4 sm:py-16 md:px-12 lg:px-20'>
       <div className='max-w-7xl mx-auto'>
         <div className='flex flex-col lg:flex-row items-center justify-center text-center' data-aos="fade-down">
-          <div className='flex-1 max-w-2xl mx-auto space-y-6 mb-10 lg:mb-0'>
+          <div className='flex-1 max-w-2xl mx-auto space-y-6 mb-10'>
             <div>
               <h2 className='text-3xl sm:text-4xl md:text-5xl text-gray-900'>
                 Our {" "}
                 <span className='font-bold text-black'>
-                  Services <span className='text-green-500'>.</span>
+                  Services<span className='text-green-500'>.</span>
                 </span>
               </h2>
               <div className="flex gap-3 mt-4 justify-center">

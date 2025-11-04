@@ -10,7 +10,7 @@ const Hero = () => {
           data-aos="fade-right">
           Professionals{' '}
           <span className="font-bold text-black block lg:inline">
-            Service <span className="text-green-500">.</span>
+            Service<span className="text-green-500">.</span>
           </span>
         </h2>
         <div className="flex gap-3 mt-4 justify-center lg:justify-start"

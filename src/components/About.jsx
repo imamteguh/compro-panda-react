@@ -25,7 +25,7 @@ const About = () => {
           <h2 className='text-3xl sm:text-4xl md:text-5xl text-gray-900 text-center lg:text-left'>
             Agency {" "}
             <span className='font-bold text-black block lg:inline'>
-              Overview <span className='text-green-500'>.</span>
+              Overview<span className='text-green-500'>.</span>
             </span>
           </h2>
           <div className="flex gap-3 mt-4 justify-center lg:justify-start"

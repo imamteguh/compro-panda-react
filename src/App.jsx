@@ -6,6 +6,7 @@ import 'aos/dist/aos.css'
 import About from './components/About'
 import OurCompany from './components/OurCompany'
 import Services from './components/Services'
+import Contact from './components/Contact'
 
 const App = () => {
 
@@ -25,6 +26,7 @@ const App = () => {
       <About />
       <OurCompany />
       <Services />
+      <Contact />
     </div>
   )
 }
